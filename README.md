@@ -17,9 +17,6 @@ The inventory management system has its own intelligently managed support system
  <img src="https://github.com/jitendra-bairwa/Inventry_shop/blob/main/ScreenShots/3.png"
  alt="Markdown Monster icon"
  style="float: left; margin-right: 10px;" />
- <img src="https://github.com/jitendra-bairwa/Inventry_shop/blob/main/ScreenShots/4.png"
- alt="Markdown Monster icon"
- style="float: left; margin-right: 10px;" />
  <img src="https://github.com/jitendra-bairwa/Inventry_shop/blob/main/ScreenShots/5.png"
  alt="Markdown Monster icon"
  style="float: left; margin-right: 10px;" />
