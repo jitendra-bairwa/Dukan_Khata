@@ -1,4 +1,4 @@
-<h1 align="center">Inventry Shop</h1>
+<h1 align="center">Dukan Khata</h1>
 <p align="center">
 </p>
 
